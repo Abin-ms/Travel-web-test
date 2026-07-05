@@ -5,10 +5,11 @@ body{
 header{
     background-color: darkcyan;
     text-align: center;
-    padding: 10px;
+    padding: 1px;
 }
 header h1{
     color: white;
+   font-size: 100px;
 }
 header h3{
     color: white;
