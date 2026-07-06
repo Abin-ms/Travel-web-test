@@ -29,6 +29,10 @@ button{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
+a{
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 button:hover{
     background-color:rgb(183, 224, 224);
 }
