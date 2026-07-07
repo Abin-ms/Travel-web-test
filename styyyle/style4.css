@@ -27,9 +27,16 @@ footer{
 }
 table{
     border-collapse: collapse;
-    width: 100%;
+    width: 95%;
     border-collapse: collapse;
     border-color: black;
     text-align: center;
+
     
+}
+th{
+     background-color :darkcyan;
+}
+button:hover{
+    background-color:rgb(183, 224, 224);
 }

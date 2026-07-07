@@ -31,7 +31,17 @@ footer{
 }
 
 main div{
-    background-color: rgb(213, 255, 255);
+    background-color: rgb(212, 240, 240);
     width: 360px;
     height: 300px;
+}
+button{
+   background-color: rgb(212, 240, 240);
+   
+}
+button:hover{
+    background-color: white;
+}
+main div:hover{
+    background-color: white;
 }
