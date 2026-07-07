@@ -20,3 +20,11 @@ a{
     color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+footer{
+    background-color:darkcyan ;
+    text-align: center;
+    padding: 1px;
+}
+main img{
+    width: 100%;
+}
