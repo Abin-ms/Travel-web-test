@@ -45,3 +45,18 @@ button:hover{
 main div:hover{
     background-color: white;
 }
+.hh{
+    display: inline-block;
+    width: 350px;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-left: 330px; 
+
+}
+.hi{
+    display: inline-block;
+    width: 350px;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-left: 20px;
+}
